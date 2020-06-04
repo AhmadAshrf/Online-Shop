@@ -1,67 +1,52 @@
-# Project Title
+# Online Shop Web Application
 
-One Paragraph of project description goes here
+Node.JS Web Application Based on Architecture Pattern (MVC).
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
-
-What things you need to install the software and how to install them
+### System Analysis
 
 ```
-Give examples
+Authentication Oprerations (LogIn - SignUp - LogOut)
+Validation Forms on Server-Side
+Routers Protection
+Upload Files
+```
+
+
+### Prerequisites
+
+```
+Visual Studio Code
+MongoDB Compass Community
 ```
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
 ```
-Give the example
+just open project file and on vs code terminal write : npm install
 ```
 
-And repeat
-
 ```
-until finished
+then : nodemon app.js 
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
 ```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
+then : open google chrome or any browser and go to : localhost:3000
 ```
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+The Application will be Publish Soon`
 
 ## Built With
-
-* [Front-End Development]
-* [Express.JS]
-* [Mongo.DB]
- 
+*Web Development Tools : 
+*Front-End : Html5 - CSS3 - Javascript - Bootstrap 4
+*Back-End : Node.JS - Express.JS - Mongo.DB
+*Template Engine (EJS)
+*Architecture Pattern -- MVC-- Model, View, Controller
 
 ## Authors
 Ahmed Ashraf Muhammed
