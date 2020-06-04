@@ -43,11 +43,11 @@ The Application will be Publish Soon`
 
 ## Built With
 ```
-*Web Development Tools : 
-*Front-End : Html5 - CSS3 - Javascript - Bootstrap 4
-*Back-End : Node.JS - Express.JS - Mongo.DB
-*Template Engine (EJS)
-*Architecture Pattern -- MVC-- Model, View, Controller
+**Web Development Tools : 
+Front-End : Html5 - CSS3 - Javascript - Bootstrap 4
+Back-End : Node.JS - Express.JS - Mongo.DB
+Template Engine (EJS)
+Architecture Pattern -- MVC-- Model, View, Controller
 ```
 ## Authors
 [Ahmed Ashraf Muhammed](https://www.facebook.com/AhmedddAshraf/)
