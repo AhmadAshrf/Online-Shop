@@ -44,7 +44,7 @@ The Application will be Publish Soon`
 ## Built With
 ```
 **Web Development Tools : 
-Front-End : Html5 - CSS3 - Javascript - Bootstrap 4
+Front-End : Html/5 - CSS/3 - Javascript - jQuery - Bootstrap 4
 Back-End : Node.JS - Express.JS - Mongo.DB
 Template Engine (EJS)
 Architecture Pattern -- MVC-- Model, View, Controller
