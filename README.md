@@ -1,6 +1,6 @@
 # Online Shop Web Application
 
-Node.JS Web Application Based on Architecture Pattern (MVC).
+Node.JS Web Application Based on Architecture Pattern (MVC), Fully Responsive on All Devices [Mobile - Desktop] 
 
 ## Getting Started
 
