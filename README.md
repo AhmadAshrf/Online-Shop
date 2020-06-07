@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 Authentication Oprerations (LogIn - SignUp - LogOut)
 Validation Forms on Server-Side
 Routers Protection
-Operations on Products (Add - Delete - Update) 
+Operations on Products Cart (Add - Delete - Update) 
 Pages (Home, Cart, Manage Orders,.....,.....) 
 Upload Files
 ```
